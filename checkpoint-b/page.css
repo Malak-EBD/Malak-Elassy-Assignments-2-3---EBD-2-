@@ -1,0 +1,10 @@
+/* Checkpoint B — your styling. Build it to checkpoint-b/spec.md. */
+body {
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #999999;
+}
+
+.stock-line {
+  padding: 10px;
+  color: #222222;
+}
